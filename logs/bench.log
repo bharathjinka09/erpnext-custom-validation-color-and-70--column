@@ -1,0 +1,152 @@
+2020-10-28 17:09:34,100 DEBUG cd frappe-bench && /usr/local/bin/virtualenv -q env -p /usr/bin/python3.7
+2020-10-28 17:09:42,117 LOG Getting app frappe
+2020-10-28 17:09:42,118 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-12 --depth 1 --origin upstream
+2020-10-28 17:09:55,859 LOG installing frappe
+2020-10-28 17:09:55,859 DEBUG frappe-bench/env/bin/pip install -q -U -e frappe-bench/apps/frappe 
+2020-10-28 17:11:19,625 DEBUG cd frappe-bench/apps/frappe && yarn install
+2020-10-28 17:17:23,234 DEBUG cd frappe-bench/apps/frappe && yarn install
+2020-10-28 17:17:24,498 DEBUG cd frappe-bench && bench build
+2020-10-28 17:17:31,070 INFO /usr/local/bin/bench build
+2020-10-28 17:19:47,399 LOG setting up backups
+2020-10-28 17:19:47,635 INFO Bench frappe-bench initialized
+2020-10-28 17:21:37,188 INFO /usr/local/bin/bench --version
+2020-10-28 17:21:44,486 INFO /usr/local/bin/bench start
+2020-10-28 17:21:46,381 INFO /usr/local/bin/bench watch
+2020-10-28 17:21:46,474 INFO /usr/local/bin/bench schedule
+2020-10-28 17:21:46,563 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 17:21:46,635 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 17:21:46,676 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 17:21:46,689 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 17:24:00,970 INFO /usr/local/bin/bench new-site foo.bar
+2020-10-28 17:28:53,039 INFO /usr/local/bin/bench config dns_multitenant on
+2020-10-28 17:31:56,068 INFO /usr/local/bin/bench get-app --branch version-12 erpnext
+2020-10-28 17:31:56,655 LOG Getting app erpnext
+2020-10-28 17:31:56,655 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext --branch version-12 --depth 1 --origin upstream
+2020-10-28 17:32:25,818 LOG installing erpnext
+2020-10-28 17:32:25,819 DEBUG ./env/bin/pip install -q -U -e ./apps/erpnext 
+2020-10-28 17:33:19,027 DEBUG cd ./apps/erpnext && yarn install
+2020-10-28 17:33:19,662 DEBUG bench build --app erpnext
+2020-10-28 17:33:24,801 INFO /usr/local/bin/bench build --app erpnext
+2020-10-28 17:35:12,377 INFO /usr/local/bin/bench --site foo.bar install-app erpnext
+2020-10-28 17:35:17,461 INFO /usr/local/bin/bench start
+2020-10-28 17:35:20,531 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 17:35:20,633 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 17:35:20,655 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 17:35:20,688 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 17:35:20,890 INFO /usr/local/bin/bench watch
+2020-10-28 17:35:20,999 INFO /usr/local/bin/bench schedule
+2020-10-28 17:38:38,095 INFO /usr/local/bin/bench start
+2020-10-28 17:38:43,364 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 17:38:43,401 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 17:38:43,422 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 17:38:43,488 INFO /usr/local/bin/bench schedule
+2020-10-28 17:38:43,524 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 17:38:43,534 INFO /usr/local/bin/bench watch
+2020-10-28 17:40:12,361 INFO /usr/local/bin/bench --site foo.bar install-app erpnext
+2020-10-28 17:40:48,643 INFO /usr/local/bin/bench --site foo.bar install-app erpnext
+2020-10-28 17:41:21,364 INFO /usr/local/bin/bench start
+2020-10-28 17:41:23,688 INFO /usr/local/bin/bench watch
+2020-10-28 17:41:23,753 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 17:41:23,760 INFO /usr/local/bin/bench schedule
+2020-10-28 17:41:23,841 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 17:41:23,931 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 17:41:24,039 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 17:43:01,670 INFO /usr/local/bin/bench
+2020-10-28 17:44:05,090 INFO /usr/local/bin/bench start
+2020-10-28 17:44:06,420 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 17:44:06,572 INFO /usr/local/bin/bench schedule
+2020-10-28 17:44:06,733 INFO /usr/local/bin/bench watch
+2020-10-28 17:44:06,848 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 17:44:06,890 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 17:44:07,078 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 17:47:08,698 INFO /usr/local/bin/bench get-app --branch version-12 erpnext
+2020-10-28 17:47:09,298 LOG Getting app erpnext
+2020-10-28 17:47:09,299 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext --branch version-12 --depth 1 --origin upstream
+2020-10-28 17:47:38,586 LOG installing erpnext
+2020-10-28 17:47:38,586 DEBUG ./env/bin/pip install -q -U -e ./apps/erpnext 
+2020-10-28 17:47:54,943 DEBUG cd ./apps/erpnext && yarn install
+2020-10-28 17:47:55,265 DEBUG bench build --app erpnext
+2020-10-28 17:47:55,731 INFO /usr/local/bin/bench build --app erpnext
+2020-10-28 17:48:43,364 INFO /usr/local/bin/bench --site foo.bar install-app erpnext
+2020-10-28 17:49:03,932 INFO /usr/local/bin/bench start
+2020-10-28 17:49:05,928 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 17:49:06,055 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 17:49:06,080 INFO /usr/local/bin/bench watch
+2020-10-28 17:49:06,225 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 17:49:06,295 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 17:49:06,366 INFO /usr/local/bin/bench schedule
+2020-10-28 17:51:42,575 INFO /usr/local/bin/bench start
+2020-10-28 17:51:45,612 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 17:51:45,673 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 17:51:45,839 INFO /usr/local/bin/bench schedule
+2020-10-28 17:51:45,875 INFO /usr/local/bin/bench watch
+2020-10-28 17:51:45,956 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 17:51:46,126 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 17:55:37,217 INFO /usr/local/bin/bench --site foo.bar install-app erpnext
+2020-10-28 17:56:24,380 INFO /usr/local/bin/bench --site foo.bar reinstall
+2020-10-28 18:00:36,023 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-28 18:04:56,673 INFO /usr/local/bin/bench --site foo.bar install-app erpnext
+2020-10-28 18:21:25,133 INFO /usr/local/bin/bench start
+2020-10-28 18:21:28,268 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 18:21:28,320 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 18:21:28,354 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 18:21:28,438 INFO /usr/local/bin/bench schedule
+2020-10-28 18:21:28,453 INFO /usr/local/bin/bench watch
+2020-10-28 18:21:28,471 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 18:47:17,072 INFO /usr/local/bin/bench start
+2020-10-28 18:47:23,209 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 18:47:23,430 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 18:47:23,497 INFO /usr/local/bin/bench worker --queue short
+2020-10-28 18:47:23,647 INFO /usr/local/bin/bench schedule
+2020-10-28 18:47:23,725 INFO /usr/local/bin/bench watch
+2020-10-28 18:47:23,745 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 19:06:10,846 INFO /usr/local/bin/bench start
+2020-10-28 19:06:15,943 INFO /usr/local/bin/bench schedule
+2020-10-28 19:06:16,076 INFO /usr/local/bin/bench watch
+2020-10-28 19:06:16,140 INFO /usr/local/bin/bench worker --queue default
+2020-10-28 19:06:16,146 INFO /usr/local/bin/bench worker --queue long
+2020-10-28 19:06:16,169 INFO /usr/local/bin/bench serve --port 8000
+2020-10-28 19:06:16,191 INFO /usr/local/bin/bench worker --queue short
+2020-10-29 09:31:46,907 INFO /usr/local/bin/bench start
+2020-10-29 09:31:49,016 INFO /usr/local/bin/bench watch
+2020-10-29 09:31:49,090 INFO /usr/local/bin/bench schedule
+2020-10-29 09:31:49,091 INFO /usr/local/bin/bench worker --queue default
+2020-10-29 09:31:49,092 INFO /usr/local/bin/bench worker --queue long
+2020-10-29 09:31:49,115 INFO /usr/local/bin/bench worker --queue short
+2020-10-29 09:31:49,128 INFO /usr/local/bin/bench serve --port 8000
+2020-10-29 09:54:08,718 INFO /usr/local/bin/bench start
+2020-10-29 09:54:14,307 INFO /usr/local/bin/bench worker --queue short
+2020-10-29 09:54:14,351 INFO /usr/local/bin/bench worker --queue long
+2020-10-29 09:54:14,354 INFO /usr/local/bin/bench watch
+2020-10-29 09:54:14,413 INFO /usr/local/bin/bench serve --port 8000
+2020-10-29 09:54:14,425 INFO /usr/local/bin/bench worker --queue default
+2020-10-29 09:54:14,458 INFO /usr/local/bin/bench schedule
+2020-10-29 09:55:52,510 INFO /usr/local/bin/bench start
+2020-10-29 09:55:55,188 INFO /usr/local/bin/bench schedule
+2020-10-29 09:55:55,242 INFO /usr/local/bin/bench worker --queue long
+2020-10-29 09:55:55,370 INFO /usr/local/bin/bench worker --queue default
+2020-10-29 09:55:55,448 INFO /usr/local/bin/bench serve --port 8000
+2020-10-29 09:55:55,485 INFO /usr/local/bin/bench watch
+2020-10-29 09:55:55,517 INFO /usr/local/bin/bench worker --queue short
+2020-10-29 12:00:20,721 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-29 17:26:54,936 INFO /usr/local/bin/bench pip install jedi pygls
+2020-10-29 18:00:19,903 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-30 12:00:25,720 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-30 15:22:30,641 INFO /usr/local/bin/bench --version
+2020-10-30 15:37:48,471 INFO /usr/local/bin/bench start
+2020-10-30 15:37:50,639 INFO /usr/local/bin/bench serve --port 8000
+2020-10-30 15:37:50,804 INFO /usr/local/bin/bench watch
+2020-10-30 15:37:50,825 INFO /usr/local/bin/bench worker --queue long
+2020-10-30 15:37:50,828 INFO /usr/local/bin/bench schedule
+2020-10-30 15:37:50,833 INFO /usr/local/bin/bench worker --queue short
+2020-10-30 15:37:50,883 INFO /usr/local/bin/bench worker --queue default
+2020-10-30 18:00:16,085 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-31 12:01:11,805 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-02 12:00:19,561 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-02 14:53:44,951 INFO /usr/local/bin/bench start
+2020-11-02 14:53:48,774 INFO /usr/local/bin/bench serve --port 8000
+2020-11-02 14:53:48,892 INFO /usr/local/bin/bench worker --queue short
+2020-11-02 14:53:48,917 INFO /usr/local/bin/bench schedule
+2020-11-02 14:53:49,074 INFO /usr/local/bin/bench watch
+2020-11-02 14:53:49,093 INFO /usr/local/bin/bench worker --queue long
+2020-11-02 14:53:49,109 INFO /usr/local/bin/bench worker --queue default

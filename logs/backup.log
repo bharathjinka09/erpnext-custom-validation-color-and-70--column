@@ -1,0 +1,21 @@
+Backup Summary at 2020-10-28 18:01:38.694426
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201028_180136-foo_bar-database.sql.gz
+Backup Summary at 2020-10-29 12:03:29.868019
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201029_120120-foo_bar-database.sql.gz
+Backup Summary at 2020-10-29 18:03:00.893153
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201029_180052-foo_bar-database.sql.gz
+Backup Summary at 2020-10-30 12:10:27.756718
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201030_120134-foo_bar-database.sql.gz
+Backup Summary at 2020-10-30 18:01:47.303735
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201030_180018-foo_bar-database.sql.gz
+Backup Summary at 2020-10-31 12:14:13.952689
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201031_120352-foo_bar-database.sql.gz
+Backup Summary at 2020-11-02 12:02:20.600539
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201102_120113-foo_bar-database.sql.gz

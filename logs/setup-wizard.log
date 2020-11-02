@@ -1,0 +1,37 @@
+Traceback (most recent call last):
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 72, in setup_complete
+    task.get('fn')(task.get('args'))
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 88, in update_global_settings
+    update_system_settings(args)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 151, in update_system_settings
+    system_settings.save()
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/model/document.py", line 273, in save
+    return self._save(*args, **kwargs)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/model/document.py", line 303, in _save
+    self.check_if_latest()
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/model/document.py", line 642, in check_if_latest
+    where doctype=%s and field='modified' for update''', self.doctype)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/database/database.py", line 156, in sql
+    self._cursor.execute(query, values)
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/connections.py", line 1082, in read
+    self._read_result_packet(first_packet)
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/connections.py", line 1152, in _read_result_packet
+    self._read_rowdata_packet()
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/connections.py", line 1186, in _read_rowdata_packet
+    packet = self.connection._read_packet()
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/bharath/frappe-bench/env/lib/python3.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1205, 'Lock wait timeout exceeded; try restarting transaction')
+{"language": "English", "country": "India", "timezone": "Asia/Kolkata", "currency": "INR", "full_name": "Jinka Ranga Bharath", "email": "bharath.ranga@medleymed.com", "password": "root", "domains": ["Distribution", "Education", "Manufacturing", "Retail", "Services"], "company_name": "Medley Med", "company_abbr": "MM", "company_tagline": "Healthcare Medical", "bank_account": "Bank Of Baroda", "chart_of_accounts": "India - Chart of Accounts", "fy_start_date": "2020-04-01", "fy_end_date": "2021-03-31"}
