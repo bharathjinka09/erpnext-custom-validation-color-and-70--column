@@ -150,3 +150,199 @@
 2020-11-02 14:53:49,074 INFO /usr/local/bin/bench watch
 2020-11-02 14:53:49,093 INFO /usr/local/bin/bench worker --queue long
 2020-11-02 14:53:49,109 INFO /usr/local/bin/bench worker --queue default
+2020-11-02 16:51:39,618 INFO /usr/local/bin/bench start
+2020-11-02 16:51:47,923 INFO /usr/local/bin/bench worker --queue default
+2020-11-02 16:51:47,924 INFO /usr/local/bin/bench schedule
+2020-11-02 16:51:47,926 INFO /usr/local/bin/bench watch
+2020-11-02 16:51:47,929 INFO /usr/local/bin/bench worker --queue long
+2020-11-02 16:51:47,934 INFO /usr/local/bin/bench serve --port 8000
+2020-11-02 16:51:47,937 INFO /usr/local/bin/bench worker --queue short
+2020-11-02 18:00:31,487 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-02 20:11:36,418 INFO /usr/local/bin/bench start
+2020-11-02 20:11:41,479 INFO /usr/local/bin/bench serve --port 8000
+2020-11-02 20:11:41,532 INFO /usr/local/bin/bench worker --queue short
+2020-11-02 20:11:41,581 INFO /usr/local/bin/bench worker --queue default
+2020-11-02 20:11:41,676 INFO /usr/local/bin/bench schedule
+2020-11-02 20:11:41,680 INFO /usr/local/bin/bench watch
+2020-11-02 20:11:41,724 INFO /usr/local/bin/bench worker --queue long
+2020-11-02 20:13:32,212 INFO /usr/local/bin/bench start
+2020-11-02 20:13:34,469 INFO /usr/local/bin/bench watch
+2020-11-02 20:13:34,532 INFO /usr/local/bin/bench worker --queue long
+2020-11-02 20:13:34,568 INFO /usr/local/bin/bench worker --queue short
+2020-11-02 20:13:34,594 INFO /usr/local/bin/bench schedule
+2020-11-02 20:13:34,596 INFO /usr/local/bin/bench serve --port 8000
+2020-11-02 20:13:34,599 INFO /usr/local/bin/bench worker --queue default
+2020-11-02 20:17:01,401 INFO /usr/local/bin/bench start
+2020-11-02 20:17:05,661 INFO /usr/local/bin/bench schedule
+2020-11-02 20:17:05,662 INFO /usr/local/bin/bench worker --queue short
+2020-11-02 20:17:05,724 INFO /usr/local/bin/bench worker --queue long
+2020-11-02 20:17:05,728 INFO /usr/local/bin/bench worker --queue default
+2020-11-02 20:17:05,730 INFO /usr/local/bin/bench watch
+2020-11-02 20:17:05,825 INFO /usr/local/bin/bench serve --port 8000
+2020-11-02 20:19:58,310 INFO /usr/local/bin/bench start
+2020-11-02 20:20:00,978 INFO /usr/local/bin/bench worker --queue long
+2020-11-02 20:20:01,035 INFO /usr/local/bin/bench worker --queue default
+2020-11-02 20:20:01,078 INFO /usr/local/bin/bench schedule
+2020-11-02 20:20:01,149 INFO /usr/local/bin/bench serve --port 8000
+2020-11-02 20:20:01,161 INFO /usr/local/bin/bench worker --queue short
+2020-11-02 20:20:01,196 INFO /usr/local/bin/bench watch
+2020-11-02 20:23:39,522 INFO /usr/local/bin/bench start
+2020-11-02 20:23:42,014 INFO /usr/local/bin/bench schedule
+2020-11-02 20:23:42,072 INFO /usr/local/bin/bench worker --queue default
+2020-11-02 20:23:42,112 INFO /usr/local/bin/bench serve --port 8000
+2020-11-02 20:23:42,121 INFO /usr/local/bin/bench worker --queue long
+2020-11-02 20:23:42,126 INFO /usr/local/bin/bench watch
+2020-11-02 20:23:42,129 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 10:00:29,687 INFO /usr/local/bin/bench start
+2020-11-03 10:00:31,322 INFO /usr/local/bin/bench schedule
+2020-11-03 10:00:31,581 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 10:00:31,593 INFO /usr/local/bin/bench watch
+2020-11-03 10:00:31,627 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 10:00:31,658 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 10:00:31,659 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 10:56:24,565 INFO /usr/local/bin/bench start
+2020-11-03 10:56:26,539 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 10:56:26,790 INFO /usr/local/bin/bench schedule
+2020-11-03 10:56:26,828 INFO /usr/local/bin/bench watch
+2020-11-03 10:56:26,845 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 10:56:26,899 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 10:56:26,985 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 10:56:57,761 INFO /usr/local/bin/bench start
+2020-11-03 10:56:59,204 INFO /usr/local/bin/bench schedule
+2020-11-03 10:56:59,397 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 10:56:59,491 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 10:56:59,519 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 10:56:59,563 INFO /usr/local/bin/bench watch
+2020-11-03 10:56:59,630 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 11:10:05,677 INFO /usr/local/bin/bench start
+2020-11-03 11:10:11,472 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 11:10:11,559 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 11:10:11,623 INFO /usr/local/bin/bench schedule
+2020-11-03 11:10:11,658 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 11:10:11,689 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 11:10:11,783 INFO /usr/local/bin/bench watch
+2020-11-03 11:15:25,751 INFO /usr/local/bin/bench start
+2020-11-03 11:15:28,498 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 11:15:28,521 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 11:15:28,570 INFO /usr/local/bin/bench schedule
+2020-11-03 11:15:28,663 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 11:15:28,673 INFO /usr/local/bin/bench watch
+2020-11-03 11:15:28,705 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 11:22:13,741 INFO /usr/local/bin/bench start
+2020-11-03 11:22:15,718 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 11:22:15,821 INFO /usr/local/bin/bench schedule
+2020-11-03 11:22:15,901 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 11:22:15,941 INFO /usr/local/bin/bench watch
+2020-11-03 11:22:15,972 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 11:22:15,979 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 11:33:38,182 INFO /usr/local/bin/bench start
+2020-11-03 11:33:41,682 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 11:33:41,810 INFO /usr/local/bin/bench watch
+2020-11-03 11:33:41,893 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 11:33:42,036 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 11:33:42,042 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 11:33:42,043 INFO /usr/local/bin/bench schedule
+2020-11-03 11:39:49,789 INFO /usr/local/bin/bench start
+2020-11-03 11:39:54,339 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 11:39:54,358 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 11:39:54,378 INFO /usr/local/bin/bench schedule
+2020-11-03 11:39:54,379 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 11:39:54,415 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 11:39:54,442 INFO /usr/local/bin/bench watch
+2020-11-03 11:48:03,502 INFO /usr/local/bin/bench start
+2020-11-03 11:48:06,813 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 11:48:06,888 INFO /usr/local/bin/bench watch
+2020-11-03 11:48:06,960 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 11:48:07,013 INFO /usr/local/bin/bench schedule
+2020-11-03 11:48:07,018 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 11:48:07,134 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 12:00:49,426 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-03 12:00:49,427 INFO /usr/local/bin/bench clear-cache
+2020-11-03 12:01:11,259 INFO /usr/local/bin/bench clear-cache
+2020-11-03 12:01:49,577 INFO /usr/local/bin/bench start
+2020-11-03 12:01:53,005 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 12:01:53,045 INFO /usr/local/bin/bench watch
+2020-11-03 12:01:53,128 INFO /usr/local/bin/bench schedule
+2020-11-03 12:01:53,194 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 12:01:53,324 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 12:01:53,361 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 12:24:10,217 INFO /usr/local/bin/bench start
+2020-11-03 12:24:13,481 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 12:24:13,490 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 12:24:13,508 INFO /usr/local/bin/bench schedule
+2020-11-03 12:24:13,517 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 12:24:13,559 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 12:24:13,565 INFO /usr/local/bin/bench watch
+2020-11-03 12:32:07,215 INFO /usr/local/bin/bench clear-cache
+2020-11-03 12:34:05,782 INFO /usr/local/bin/bench start
+2020-11-03 12:34:08,031 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 12:34:08,164 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 12:34:08,181 INFO /usr/local/bin/bench schedule
+2020-11-03 12:34:08,195 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 12:34:08,342 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 12:34:08,432 INFO /usr/local/bin/bench watch
+2020-11-03 13:26:52,419 INFO /usr/local/bin/bench start
+2020-11-03 13:26:55,045 INFO /usr/local/bin/bench schedule
+2020-11-03 13:26:55,338 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 13:26:55,380 INFO /usr/local/bin/bench watch
+2020-11-03 13:26:55,427 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 13:26:55,433 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 13:26:55,442 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 14:07:28,015 INFO /usr/local/bin/bench start
+2020-11-03 14:07:33,656 INFO /usr/local/bin/bench schedule
+2020-11-03 14:07:33,670 INFO /usr/local/bin/bench watch
+2020-11-03 14:07:33,691 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 14:07:33,769 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 14:07:33,833 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 14:07:33,861 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 14:52:35,159 INFO /usr/local/bin/bench start
+2020-11-03 14:52:36,967 INFO /usr/local/bin/bench watch
+2020-11-03 14:52:37,156 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 14:52:37,162 INFO /usr/local/bin/bench schedule
+2020-11-03 14:52:37,167 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 14:52:37,198 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 14:52:37,202 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 16:09:35,791 INFO /usr/local/bin/bench start
+2020-11-03 16:09:38,107 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 16:09:38,414 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 16:09:38,432 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 16:09:38,450 INFO /usr/local/bin/bench schedule
+2020-11-03 16:09:38,508 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 16:09:38,555 INFO /usr/local/bin/bench watch
+2020-11-03 16:15:51,530 INFO /usr/local/bin/bench start
+2020-11-03 16:15:53,587 INFO /usr/local/bin/bench watch
+2020-11-03 16:15:53,638 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 16:15:53,681 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 16:15:53,697 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 16:15:53,745 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 16:15:53,760 INFO /usr/local/bin/bench schedule
+2020-11-03 16:20:00,867 INFO /usr/local/bin/bench start
+2020-11-03 16:20:03,543 INFO /usr/local/bin/bench schedule
+2020-11-03 16:20:03,671 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 16:20:03,683 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 16:20:03,697 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 16:20:03,703 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 16:20:03,730 INFO /usr/local/bin/bench watch
+2020-11-03 16:38:09,291 INFO /usr/local/bin/bench start
+2020-11-03 16:38:12,612 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 16:38:12,743 INFO /usr/local/bin/bench watch
+2020-11-03 16:38:12,786 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 16:38:12,833 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 16:38:12,936 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 16:38:12,939 INFO /usr/local/bin/bench schedule
+2020-11-03 16:43:36,771 INFO /usr/local/bin/bench start
+2020-11-03 16:43:38,647 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 16:43:38,660 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 16:43:38,704 INFO /usr/local/bin/bench schedule
+2020-11-03 16:43:38,741 INFO /usr/local/bin/bench watch
+2020-11-03 16:43:38,762 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 16:43:38,787 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 18:00:33,131 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-03 18:39:35,602 INFO /usr/local/bin/bench build
+2020-11-03 18:42:39,340 INFO /usr/local/bin/bench start
+2020-11-03 18:42:41,472 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 18:42:41,497 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 18:42:41,604 INFO /usr/local/bin/bench watch
+2020-11-03 18:42:41,606 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 18:42:41,656 INFO /usr/local/bin/bench schedule
+2020-11-03 18:42:41,746 INFO /usr/local/bin/bench worker --queue long

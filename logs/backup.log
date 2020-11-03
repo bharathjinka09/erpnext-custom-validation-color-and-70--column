@@ -19,3 +19,12 @@ Database backup: ./foo.bar/private/backups/20201031_120352-foo_bar-database.sql.
 Backup Summary at 2020-11-02 12:02:20.600539
 --------------------------------------------
 Database backup: ./foo.bar/private/backups/20201102_120113-foo_bar-database.sql.gz
+Backup Summary at 2020-11-02 18:02:08.080985
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201102_180112-foo_bar-database.sql.gz
+Backup Summary at 2020-11-03 12:02:17.421122
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201103_120137-foo_bar-database.sql.gz
+Backup Summary at 2020-11-03 18:02:19.826837
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201103_180125-foo_bar-database.sql.gz

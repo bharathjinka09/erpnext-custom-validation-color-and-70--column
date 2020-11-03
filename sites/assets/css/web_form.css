@@ -174,7 +174,7 @@ input.list-row-checkbox {
   }
 }
 .like-action.octicon-heart {
-  color: #ff5858;
+  color: #29a1c3;
 }
 .list-comment-count {
   display: inline-block;
@@ -831,7 +831,7 @@ table {
   border-radius: 3px;
 }
 .form-grid.error {
-  border-color: #ff5858;
+  border-color: #29a1c3;
 }
 .grid-heading-row {
   border-bottom: 1px solid #d1d8dd;
@@ -938,7 +938,7 @@ table {
   z-index: 1;
 }
 .grid-body .editable-row .has-error .form-control:focus {
-  border-color: #ff5858;
+  border-color: #29a1c3;
 }
 .grid-body .editable-row input[data-fieldtype="Int"],
 .grid-body .editable-row input[data-fieldtype="Float"],

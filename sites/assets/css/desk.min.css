@@ -3520,10 +3520,10 @@ select[multiple].form-group-lg .form-control {
 .has-warning.checkbox label,
 .has-warning.radio-inline label,
 .has-warning.checkbox-inline label {
-  color: #ffa00a;
+  color: #29a1c3;
 }
 .has-warning .form-control {
-  border-color: #ffa00a;
+  border-color: #29a1c3;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
 }
@@ -3533,12 +3533,12 @@ select[multiple].form-group-lg .form-control {
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ffc870;
 }
 .has-warning .input-group-addon {
-  color: #ffa00a;
+  color: #29a1c3;
   background-color: transparent;
-  border-color: #ffa00a;
+  border-color: #29a1c3;
 }
 .has-warning .form-control-feedback {
-  color: #ffa00a;
+  color: #29a1c3;
 }
 .has-error .help-block,
 .has-error .control-label,
@@ -3550,22 +3550,22 @@ select[multiple].form-group-lg .form-control {
 .has-error.checkbox label,
 .has-error.radio-inline label,
 .has-error.checkbox-inline label {
-  color: #ff5858;
+  color: #29a1c3;
 }
 .has-error .form-control {
-  border-color: #ff5858;
+  border-color: #29a1c3 !important;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
 }
 .has-error .form-control:focus {
-  border-color: #ff2525;
+  border-color: #29a1c3 !important;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ffbebe;
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ffbebe;
 }
 .has-error .input-group-addon {
   color: #ff5858;
   background-color: transparent;
-  border-color: #ff5858;
+  border-color: #29a1c3;
 }
 .has-error .form-control-feedback {
   color: #ff5858;
@@ -7326,6 +7326,18 @@ h4.modal-title {
   color: #b8c2cb;
 }
 
+.has-error .form-control {
+    border-color: #29a1c3 !important;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+
+
+.input-with-feedback .form-control .bold{
+ border-color: #29a1c3 !important;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075); 
+}
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -11236,7 +11248,7 @@ img.img-loading:after {
 }
 .indicator.red::before,
 .indicator-right.red::after {
-  background: #ff5858;
+  background: #29a1c3;
 }
 .indicator.green::before,
 .indicator-right.green::after {
@@ -11540,7 +11552,7 @@ img.img-loading:after {
   background-color: #b8c2cc;
 }
 .navbar-new-comments-true {
-  background-color: #ff5858;
+  background-color: #29a1c3;
 }
 .navbar-form .awesomplete {
   margin-left: -15px;
@@ -12676,7 +12688,7 @@ select.input-sm {
   right: 20px;
   top: -10px;
   color: #fff;
-  background-color: #ff5858;
+  background-color: #29a1c3;
   padding: 6px;
   font-size: 12px;
   line-height: 1;
@@ -13308,7 +13320,7 @@ h6.uppercase,
   display: none;
 }
 .timeline-item.user-content .comment-header .octicon-heart {
-  color: #ff5858;
+  color: #29a1c3;
   cursor: pointer;
 }
 .timeline-item.user-content .reply {
@@ -13390,7 +13402,7 @@ h6.uppercase,
   margin-left: 0px;
 }
 .timeline-item.notification-content .octicon-heart {
-  color: #ff5858 !important;
+  color: #29a1c3 !important;
 }
 .timeline-item.notification-content::before {
   content: " ";
