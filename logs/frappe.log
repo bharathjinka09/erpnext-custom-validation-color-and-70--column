@@ -1,265 +1,43 @@
-[DEBUG] 2020-11-03 17:12:54,394 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:10:31,216 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:13:54,530 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:11:39,668 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:14:54,658 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:17:26,019 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:15:54,790 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:18:27,685 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:16:54,996 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:19:28,883 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:17:55,128 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:20:29,949 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:18:55,281 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:21:31,133 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:19:55,440 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:22:32,557 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:20:55,606 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:23:32,966 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:21:55,790 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:24:33,286 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:22:56,073 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:25:35,412 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:23:56,220 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:26:35,980 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:24:56,453 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:27:36,303 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:25:56,660 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:26:56,809 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:27:56,991 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:28:57,159 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:29:57,370 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:30:57,586 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:31:57,729 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:32:57,900 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:33:58,042 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:34:58,172 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:35:58,301 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:36:58,428 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:37:58,603 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:38:58,776 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:39:58,929 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:40:59,173 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:41:59,329 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:42:59,463 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:43:59,619 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:45:00,058 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:46:00,201 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:47:00,344 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:48:00,669 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:49:00,799 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:50:01,005 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:51:01,131 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:52:01,306 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:53:01,471 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:54:01,617 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:55:01,749 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:56:01,927 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:57:02,132 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:58:02,255 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 17:59:02,383 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:00:02,822 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:01:03,432 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:02:03,676 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:03:03,852 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:04:04,218 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:05:04,460 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:06:04,781 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:07:04,915 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:08:05,183 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:09:05,367 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:10:05,527 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:11:05,658 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:12:05,855 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:13:05,984 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:14:06,129 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:15:06,259 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:16:06,446 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:17:06,570 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:18:06,714 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:19:06,822 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:20:07,100 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:21:07,239 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:22:07,426 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:23:07,708 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:24:07,899 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:25:08,039 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:26:08,277 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:27:08,421 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:28:08,608 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:29:08,785 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:30:08,928 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:31:09,097 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:32:09,274 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:33:09,496 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:34:09,641 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:35:09,790 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:36:09,996 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:37:10,130 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:38:10,260 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:39:10,609 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
-Site: foo.bar
-Queued events for site foo.bar
-[ERROR] 2020-11-03 18:42:49,538 | /home/bharath/frappe-bench/apps/frappe/frappe/app.py:
+[ERROR] 2020-11-14 12:44:24,011 | /home/bharath/frappe-bench/apps/frappe/frappe/app.py:
 Site: foo.bar
 Form Dict: {
  "cmd": "frappe.realtime.get_user_info"
@@ -277,14 +55,524 @@ Traceback (most recent call last):
   File "/home/bharath/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
     return fn(*args, **newargs)
 TypeError: get_user_info() missing 1 required positional argument: 'sid'
-[ERROR] 2020-11-03 18:42:49,821 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/error.py:
-New Exception collected with id: 2020-11-03 18:42:49.538752-127.0.0.1-f62
-[DEBUG] 2020-11-03 18:43:47,041 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[ERROR] 2020-11-14 12:44:24,576 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-11-14 12:44:24.044432-127.0.0.1-262
+[DEBUG] 2020-11-14 12:45:11,578 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:44:47,989 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:46:12,682 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar
-[DEBUG] 2020-11-03 18:45:48,184 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+[DEBUG] 2020-11-14 12:47:12,882 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:48:13,307 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:49:13,713 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:50:15,236 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:51:15,896 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:52:16,491 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:55:53,233 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:56:53,463 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:57:53,837 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:58:54,091 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 12:59:54,280 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:00:54,526 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:01:54,693 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:02:54,865 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:03:55,032 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:04:55,233 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:05:55,543 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:06:55,802 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:07:56,273 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:08:56,696 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:09:56,950 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:10:57,216 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:11:57,425 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:12:57,639 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:13:57,915 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:14:58,079 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:15:58,326 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:16:58,704 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:17:58,830 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:18:59,030 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:19:59,197 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:20:59,452 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:21:59,656 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:22:59,903 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:24:00,165 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:25:00,371 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:26:00,565 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:27:00,684 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:28:01,671 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:29:01,866 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:30:02,065 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:31:02,327 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:32:02,587 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:33:02,761 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:34:02,878 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:35:03,083 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:36:03,319 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:37:03,489 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:38:03,608 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:39:03,785 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:40:04,244 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:41:04,447 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:42:04,572 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[ERROR] 2020-11-14 13:48:03,086 | /home/bharath/frappe-bench/apps/frappe/frappe/app.py:
+Site: foo.bar
+Form Dict: {
+ "cmd": "frappe.desk.form.load.getdoctype"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+TypeError: getdoctype() missing 1 required positional argument: 'doctype'
+[ERROR] 2020-11-14 13:48:03,328 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-11-14 13:48:03.088387-127.0.0.1-25f
+[DEBUG] 2020-11-14 13:48:41,339 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:49:41,575 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:50:41,748 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:51:41,965 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:52:42,202 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 13:53:42,363 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:30:53,794 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:31:54,072 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:32:54,360 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:33:54,586 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:34:54,767 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:35:54,943 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:36:55,129 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:37:55,292 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:38:55,463 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:39:55,667 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:40:55,880 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:41:56,042 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:42:56,242 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:43:56,404 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:44:56,594 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:45:56,776 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:46:56,958 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:47:57,129 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:48:57,320 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:49:57,461 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:50:57,630 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:51:57,796 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:52:58,018 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:53:58,324 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:54:58,524 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:55:58,692 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:56:58,860 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:57:59,028 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:58:59,243 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 14:59:59,448 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:00:59,673 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:01:59,827 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:02:59,994 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:04:00,223 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:05:00,399 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:06:00,577 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:07:00,759 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:08:00,949 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:09:01,113 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:10:01,241 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:11:01,374 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:12:01,598 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:13:01,779 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:14:01,966 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:15:02,165 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:16:02,418 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 15:17:02,628 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 18:58:16,193 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 18:59:16,345 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:00:16,651 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:01:16,844 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:02:17,022 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:03:17,194 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:04:17,341 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:05:17,659 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:06:17,837 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:07:18,021 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:13:07,106 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:14:07,427 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:15:07,616 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:16:07,752 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:17:07,881 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:18:08,021 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:19:08,162 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:20:08,343 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:21:08,536 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:22:08,721 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:23:08,950 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:24:09,173 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:25:09,361 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:26:09,553 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:27:09,733 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:28:09,994 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:29:10,317 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:30:10,581 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:31:10,827 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[ERROR] 2020-11-14 19:38:04,200 | /home/bharath/frappe-bench/apps/frappe/frappe/app.py:
+Site: foo.bar
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2020-11-14 19:38:04,337 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-11-14 19:38:04.201151-127.0.0.1-aed
+[DEBUG] 2020-11-14 19:39:35,752 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:40:36,301 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:41:36,503 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:42:42,735 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:43:43,515 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[ERROR] 2020-11-14 19:46:37,804 | /home/bharath/frappe-bench/apps/frappe/frappe/app.py:
+Site: foo.bar
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/app.py", line 64, in application
+    response = frappe.api.handle()
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/api.py", line 59, in handle
+    return frappe.handler.handle()
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/handler.py", line 24, in handle
+    data = execute_cmd(cmd)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/handler.py", line 64, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/bharath/frappe-bench/apps/frappe/frappe/__init__.py", line 1064, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2020-11-14 19:46:38,259 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-11-14 19:46:37.805261-127.0.0.1-bbe
+[DEBUG] 2020-11-14 19:47:35,691 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:48:35,901 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:49:36,034 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:50:36,209 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:51:36,428 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:52:36,654 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:53:36,856 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:54:37,064 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:55:37,283 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:56:37,511 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: foo.bar
+Queued events for site foo.bar
+[DEBUG] 2020-11-14 19:57:39,213 | /home/bharath/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: foo.bar
 Queued events for site foo.bar

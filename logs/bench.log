@@ -346,3 +346,290 @@
 2020-11-03 18:42:41,606 INFO /usr/local/bin/bench serve --port 8000
 2020-11-03 18:42:41,656 INFO /usr/local/bin/bench schedule
 2020-11-03 18:42:41,746 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 18:58:43,565 INFO /usr/local/bin/bench start
+2020-11-03 18:58:45,219 INFO /usr/local/bin/bench serve --port 8000
+2020-11-03 18:58:45,448 INFO /usr/local/bin/bench schedule
+2020-11-03 18:58:45,508 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 18:58:45,525 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 18:58:45,536 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 18:58:45,615 INFO /usr/local/bin/bench watch
+2020-11-03 19:12:38,310 INFO /usr/local/bin/bench start
+2020-11-03 19:12:39,904 INFO /usr/local/bin/bench worker --queue short
+2020-11-03 19:12:40,005 INFO /usr/local/bin/bench worker --queue long
+2020-11-03 19:12:40,025 INFO /usr/local/bin/bench watch
+2020-11-03 19:12:40,046 INFO /usr/local/bin/bench worker --queue default
+2020-11-03 19:12:40,046 INFO /usr/local/bin/bench schedule
+2020-11-03 19:12:40,110 INFO /usr/local/bin/bench serve --port 8000
+2020-11-04 09:49:20,842 INFO /usr/local/bin/bench start
+2020-11-04 09:49:25,883 INFO /usr/local/bin/bench serve --port 8000
+2020-11-04 09:49:25,883 INFO /usr/local/bin/bench worker --queue default
+2020-11-04 09:49:25,890 INFO /usr/local/bin/bench worker --queue long
+2020-11-04 09:49:25,890 INFO /usr/local/bin/bench watch
+2020-11-04 09:49:25,891 INFO /usr/local/bin/bench schedule
+2020-11-04 09:49:25,894 INFO /usr/local/bin/bench worker --queue short
+2020-11-04 11:33:02,022 INFO /usr/local/bin/bench start
+2020-11-04 11:33:09,270 INFO /usr/local/bin/bench serve --port 8000
+2020-11-04 11:33:09,275 INFO /usr/local/bin/bench worker --queue default
+2020-11-04 11:33:09,278 INFO /usr/local/bin/bench schedule
+2020-11-04 11:33:09,280 INFO /usr/local/bin/bench worker --queue long
+2020-11-04 11:33:09,280 INFO /usr/local/bin/bench worker --queue short
+2020-11-04 11:33:09,282 INFO /usr/local/bin/bench watch
+2020-11-04 11:53:55,016 INFO /usr/local/bin/bench start
+2020-11-04 11:53:59,852 INFO /usr/local/bin/bench worker --queue short
+2020-11-04 11:54:00,174 INFO /usr/local/bin/bench worker --queue default
+2020-11-04 11:54:00,196 INFO /usr/local/bin/bench watch
+2020-11-04 11:54:00,216 INFO /usr/local/bin/bench serve --port 8000
+2020-11-04 11:54:00,230 INFO /usr/local/bin/bench schedule
+2020-11-04 11:54:00,268 INFO /usr/local/bin/bench worker --queue long
+2020-11-04 12:00:53,939 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-04 14:54:26,152 INFO /usr/local/bin/bench start
+2020-11-04 14:54:29,556 INFO /usr/local/bin/bench serve --port 8000
+2020-11-04 14:54:29,709 INFO /usr/local/bin/bench worker --queue default
+2020-11-04 14:54:29,740 INFO /usr/local/bin/bench worker --queue short
+2020-11-04 14:54:29,776 INFO /usr/local/bin/bench worker --queue long
+2020-11-04 14:54:29,800 INFO /usr/local/bin/bench schedule
+2020-11-04 14:54:29,804 INFO /usr/local/bin/bench watch
+2020-11-04 17:16:56,984 INFO /usr/local/bin/bench start
+2020-11-04 17:17:01,592 INFO /usr/local/bin/bench schedule
+2020-11-04 17:17:01,616 INFO /usr/local/bin/bench watch
+2020-11-04 17:17:02,044 INFO /usr/local/bin/bench worker --queue default
+2020-11-04 17:17:02,233 INFO /usr/local/bin/bench serve --port 8000
+2020-11-04 17:17:02,265 INFO /usr/local/bin/bench worker --queue long
+2020-11-04 17:17:02,286 INFO /usr/local/bin/bench worker --queue short
+2020-11-04 17:25:32,624 INFO /usr/local/bin/bench start
+2020-11-04 17:25:34,092 INFO /usr/local/bin/bench schedule
+2020-11-04 17:25:35,231 INFO /usr/local/bin/bench watch
+2020-11-04 17:25:35,385 INFO /usr/local/bin/bench worker --queue long
+2020-11-04 17:25:35,566 INFO /usr/local/bin/bench worker --queue short
+2020-11-04 17:25:35,589 INFO /usr/local/bin/bench worker --queue default
+2020-11-04 17:25:35,643 INFO /usr/local/bin/bench serve --port 8000
+2020-11-04 17:28:48,178 INFO /usr/local/bin/bench start
+2020-11-04 17:28:54,767 INFO /usr/local/bin/bench worker --queue long
+2020-11-04 17:28:55,006 INFO /usr/local/bin/bench watch
+2020-11-04 17:28:55,106 INFO /usr/local/bin/bench serve --port 8000
+2020-11-04 17:28:55,304 INFO /usr/local/bin/bench worker --queue default
+2020-11-04 17:28:55,318 INFO /usr/local/bin/bench worker --queue short
+2020-11-04 17:28:55,334 INFO /usr/local/bin/bench schedule
+2020-11-04 18:00:28,273 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-04 18:01:26,875 INFO /usr/local/bin/bench start
+2020-11-04 18:01:30,364 INFO /usr/local/bin/bench worker --queue default
+2020-11-04 18:01:30,952 INFO /usr/local/bin/bench schedule
+2020-11-04 18:01:30,984 INFO /usr/local/bin/bench worker --queue long
+2020-11-04 18:01:31,045 INFO /usr/local/bin/bench worker --queue short
+2020-11-04 18:01:31,144 INFO /usr/local/bin/bench watch
+2020-11-04 18:01:31,286 INFO /usr/local/bin/bench serve --port 8000
+2020-11-05 12:01:29,454 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-05 15:03:13,417 INFO /usr/local/bin/bench create-app custom-css
+2020-11-05 15:03:13,521 WARNING /usr/local/bin/bench create-app custom-css executed with exit code 2
+2020-11-05 15:03:26,276 INFO /usr/local/bin/bench --help
+2020-11-05 15:03:52,129 INFO /usr/local/bin/bench new-app custom-css
+2020-11-05 15:03:52,177 LOG creating new app custom_css
+2020-11-05 15:04:18,221 LOG installing custom_css
+2020-11-05 15:04:18,221 DEBUG ./env/bin/pip install -q -U -e ./apps/custom_css 
+2020-11-05 15:04:32,226 DEBUG bench build --app custom_css
+2020-11-05 15:04:32,703 INFO /usr/local/bin/bench build --app custom_css
+2020-11-05 15:14:42,987 INFO /usr/local/bin/bench start
+2020-11-05 15:14:47,011 INFO /usr/local/bin/bench watch
+2020-11-05 15:14:47,072 INFO /usr/local/bin/bench schedule
+2020-11-05 15:14:47,095 INFO /usr/local/bin/bench worker --queue default
+2020-11-05 15:14:47,107 INFO /usr/local/bin/bench worker --queue long
+2020-11-05 15:14:47,118 INFO /usr/local/bin/bench worker --queue short
+2020-11-05 15:14:47,135 INFO /usr/local/bin/bench serve --port 8000
+2020-11-05 15:41:09,384 INFO /usr/local/bin/bench build
+2020-11-05 16:01:24,594 INFO /usr/local/bin/bench start
+2020-11-05 16:01:26,476 INFO /usr/local/bin/bench worker --queue long
+2020-11-05 16:01:26,497 INFO /usr/local/bin/bench worker --queue short
+2020-11-05 16:01:26,697 INFO /usr/local/bin/bench worker --queue default
+2020-11-05 16:01:26,822 INFO /usr/local/bin/bench schedule
+2020-11-05 16:01:26,847 INFO /usr/local/bin/bench watch
+2020-11-05 16:01:26,933 INFO /usr/local/bin/bench serve --port 8000
+2020-11-05 18:00:23,369 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-06 12:00:18,824 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-06 12:50:23,486 INFO /usr/local/bin/bench start
+2020-11-06 12:50:26,004 INFO /usr/local/bin/bench worker --queue short
+2020-11-06 12:50:26,335 INFO /usr/local/bin/bench serve --port 8000
+2020-11-06 12:50:26,510 INFO /usr/local/bin/bench worker --queue long
+2020-11-06 12:50:26,511 INFO /usr/local/bin/bench schedule
+2020-11-06 12:50:26,558 INFO /usr/local/bin/bench watch
+2020-11-06 12:50:26,615 INFO /usr/local/bin/bench worker --queue default
+2020-11-06 13:03:39,980 INFO /usr/local/bin/bench build
+2020-11-06 13:06:03,589 INFO /usr/local/bin/bench migrate
+2020-11-06 13:07:14,228 INFO /usr/local/bin/bench start
+2020-11-06 13:07:16,352 INFO /usr/local/bin/bench worker --queue long
+2020-11-06 13:07:16,555 INFO /usr/local/bin/bench schedule
+2020-11-06 13:07:16,558 INFO /usr/local/bin/bench worker --queue default
+2020-11-06 13:07:16,767 INFO /usr/local/bin/bench worker --queue short
+2020-11-06 13:07:16,893 INFO /usr/local/bin/bench watch
+2020-11-06 13:07:17,025 INFO /usr/local/bin/bench serve --port 8000
+2020-11-06 13:07:57,934 INFO /usr/local/bin/bench migrate
+2020-11-06 18:00:16,769 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-07 18:00:30,415 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-08 12:00:34,143 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-09 12:00:25,181 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-09 12:03:48,170 INFO /usr/local/bin/bench get-app --branch staging https://gitlab.com/medleymed_healthcare_erpnext/medleymed_healthcarev12.git
+2020-11-09 12:03:48,264 LOG Getting app medleymed_healthcarev12
+2020-11-09 12:03:48,264 DEBUG cd ./apps && git clone https://gitlab.com/medleymed_healthcare_erpnext/medleymed_healthcarev12.git --branch staging --depth 1 --origin upstream
+2020-11-09 12:04:03,182 LOG installing medleyhealth
+2020-11-09 12:04:03,182 DEBUG ./env/bin/pip install -q -U -e ./apps/medleyhealth 
+2020-11-09 12:04:09,000 DEBUG bench build --app medleyhealth
+2020-11-09 12:04:09,541 INFO /usr/local/bin/bench build --app medleyhealth
+2020-11-09 12:05:17,644 INFO /usr/local/bin/bench start
+2020-11-09 12:05:19,399 INFO /usr/local/bin/bench worker --queue long
+2020-11-09 12:05:19,905 INFO /usr/local/bin/bench schedule
+2020-11-09 12:05:20,116 INFO /usr/local/bin/bench serve --port 8000
+2020-11-09 12:05:20,128 INFO /usr/local/bin/bench worker --queue short
+2020-11-09 12:05:20,188 INFO /usr/local/bin/bench watch
+2020-11-09 12:05:20,348 INFO /usr/local/bin/bench worker --queue default
+2020-11-09 18:00:23,997 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-10 12:00:20,654 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-10 18:00:34,438 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-11 12:00:19,250 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-11 18:00:29,572 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-12 12:00:21,091 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-12 18:00:14,953 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-13 12:00:47,345 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-13 17:31:00,472 INFO /usr/local/bin/bench start
+2020-11-13 17:31:02,737 INFO /usr/local/bin/bench schedule
+2020-11-13 17:31:02,748 INFO /usr/local/bin/bench worker --queue default
+2020-11-13 17:31:02,929 INFO /usr/local/bin/bench worker --queue long
+2020-11-13 17:31:03,012 INFO /usr/local/bin/bench serve --port 8000
+2020-11-13 17:31:03,051 INFO /usr/local/bin/bench worker --queue short
+2020-11-13 17:31:03,091 INFO /usr/local/bin/bench watch
+2020-11-13 18:00:25,306 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-14 10:09:22,044 INFO /usr/local/bin/bench start
+2020-11-14 10:09:26,921 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 10:09:26,977 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 10:09:27,006 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 10:09:27,047 INFO /usr/local/bin/bench schedule
+2020-11-14 10:09:27,078 INFO /usr/local/bin/bench watch
+2020-11-14 10:09:27,134 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 10:10:16,181 INFO /usr/local/bin/bench start
+2020-11-14 10:10:17,814 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 10:10:17,907 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 10:10:17,969 INFO /usr/local/bin/bench schedule
+2020-11-14 10:10:18,012 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 10:10:18,053 INFO /usr/local/bin/bench watch
+2020-11-14 10:10:18,103 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 11:03:43,309 INFO /usr/local/bin/bench set-config developer_mode 1
+2020-11-14 11:04:13,865 INFO /usr/local/bin/bench clear-cache
+2020-11-14 11:04:30,025 INFO /usr/local/bin/bench start
+2020-11-14 11:04:31,751 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 11:04:31,801 INFO /usr/local/bin/bench watch
+2020-11-14 11:04:31,866 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 11:04:31,870 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 11:04:32,131 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 11:04:32,187 INFO /usr/local/bin/bench schedule
+2020-11-14 11:08:53,123 INFO /usr/local/bin/bench build
+2020-11-14 11:54:07,216 INFO /usr/local/bin/bench build
+2020-11-14 12:13:25,169 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-14 12:13:25,218 INFO /usr/local/bin/bench start
+2020-11-14 12:13:29,156 INFO /usr/local/bin/bench watch
+2020-11-14 12:13:29,161 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 12:13:29,183 INFO /usr/local/bin/bench schedule
+2020-11-14 12:13:29,216 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 12:13:29,238 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 12:13:29,304 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 12:15:30,809 INFO /usr/local/bin/bench start
+2020-11-14 12:15:32,998 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 12:15:33,217 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 12:15:33,263 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 12:15:33,274 INFO /usr/local/bin/bench watch
+2020-11-14 12:15:33,404 INFO /usr/local/bin/bench schedule
+2020-11-14 12:15:33,443 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 12:38:58,031 INFO /usr/local/bin/bench build
+2020-11-14 12:42:52,673 INFO /usr/local/bin/bench clear-cache
+2020-11-14 12:44:03,229 INFO /usr/local/bin/bench start
+2020-11-14 12:44:05,455 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 12:44:05,634 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 12:44:05,768 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 12:44:05,835 INFO /usr/local/bin/bench schedule
+2020-11-14 12:44:06,035 INFO /usr/local/bin/bench watch
+2020-11-14 12:44:06,098 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 12:53:01,058 INFO /usr/local/bin/bench get-app https://github.com/hashirluv/bluetheme.git
+2020-11-14 12:53:01,120 LOG Getting app bluetheme
+2020-11-14 12:53:01,121 DEBUG cd ./apps && git clone https://github.com/hashirluv/bluetheme.git  --depth 1 --origin upstream
+2020-11-14 12:53:07,644 LOG installing bluetheme
+2020-11-14 12:53:07,644 DEBUG ./env/bin/pip install -q -U -e ./apps/bluetheme 
+2020-11-14 12:53:27,506 DEBUG bench build --app bluetheme
+2020-11-14 12:53:27,981 INFO /usr/local/bin/bench build --app bluetheme
+2020-11-14 12:54:19,277 INFO /usr/local/bin/bench --site foo.bar install-app bluetheme
+2020-11-14 12:54:31,757 INFO /usr/local/bin/bench clear-cache
+2020-11-14 12:54:46,580 INFO /usr/local/bin/bench start
+2020-11-14 12:54:48,416 INFO /usr/local/bin/bench schedule
+2020-11-14 12:54:48,498 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 12:54:48,565 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 12:54:48,800 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 12:54:48,886 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 12:54:48,958 INFO /usr/local/bin/bench watch
+2020-11-14 13:47:16,076 INFO /usr/local/bin/bench start
+2020-11-14 13:47:18,158 INFO /usr/local/bin/bench watch
+2020-11-14 13:47:18,378 INFO /usr/local/bin/bench schedule
+2020-11-14 13:47:18,438 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 13:47:18,449 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 13:47:18,511 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 13:47:18,556 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 14:29:10,425 INFO /usr/local/bin/bench start
+2020-11-14 14:29:15,298 INFO /usr/local/bin/bench watch
+2020-11-14 14:29:15,301 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 14:29:15,360 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 14:29:15,378 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 14:29:15,379 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 14:29:15,439 INFO /usr/local/bin/bench schedule
+2020-11-14 18:56:59,042 INFO /usr/local/bin/bench start
+2020-11-14 18:57:01,123 INFO /usr/local/bin/bench watch
+2020-11-14 18:57:01,181 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 18:57:01,220 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 18:57:01,289 INFO /usr/local/bin/bench schedule
+2020-11-14 18:57:01,298 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 18:57:01,322 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 19:31:50,928 INFO /usr/local/bin/bench get-app https://github.com/alyf-de/frappe_charts_example.git
+2020-11-14 19:31:51,265 LOG Getting app frappe_charts_example
+2020-11-14 19:31:51,266 DEBUG cd ./apps && git clone https://github.com/alyf-de/frappe_charts_example.git  --depth 1 --origin upstream
+2020-11-14 19:32:09,008 LOG installing frappe_charts
+2020-11-14 19:32:09,008 DEBUG ./env/bin/pip install -q -U -e ./apps/frappe_charts 
+2020-11-14 19:32:17,497 DEBUG cd ./apps/frappe_charts && yarn install
+2020-11-14 19:32:44,046 DEBUG bench build --app frappe_charts
+2020-11-14 19:32:44,528 INFO /usr/local/bin/bench build --app frappe_charts
+2020-11-14 19:36:11,524 INFO /usr/local/bin/bench install-app frappe_charts
+2020-11-14 19:36:18,168 INFO /usr/local/bin/bench setup requirements
+2020-11-14 19:36:18,170 DEBUG ./env/bin/pip install -q -U pip
+2020-11-14 19:36:24,814 LOG installing frappe
+2020-11-14 19:36:24,815 DEBUG ./env/bin/pip install -q -U -e ./apps/frappe 
+2020-11-14 19:36:28,600 DEBUG cd ./apps/frappe && yarn install
+2020-11-14 19:36:29,414 LOG installing erpnext
+2020-11-14 19:36:29,414 DEBUG ./env/bin/pip install -q -U -e ./apps/erpnext 
+2020-11-14 19:36:33,178 DEBUG cd ./apps/erpnext && yarn install
+2020-11-14 19:36:33,555 LOG installing custom_css
+2020-11-14 19:36:33,555 DEBUG ./env/bin/pip install -q -U -e ./apps/custom_css 
+2020-11-14 19:36:36,105 LOG installing medleyhealth
+2020-11-14 19:36:36,106 DEBUG ./env/bin/pip install -q -U -e ./apps/medleyhealth 
+2020-11-14 19:36:38,839 LOG installing bluetheme
+2020-11-14 19:36:38,839 DEBUG ./env/bin/pip install -q -U -e ./apps/bluetheme 
+2020-11-14 19:36:41,620 LOG installing frappe_charts
+2020-11-14 19:36:41,621 DEBUG ./env/bin/pip install -q -U -e ./apps/frappe_charts 
+2020-11-14 19:36:44,666 DEBUG cd ./apps/frappe_charts && yarn install
+2020-11-14 19:36:59,594 INFO /usr/local/bin/bench build --app frappe_charts
+2020-11-14 19:37:53,178 INFO /usr/local/bin/bench start
+2020-11-14 19:37:55,435 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 19:37:55,576 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 19:37:55,609 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 19:37:55,695 INFO /usr/local/bin/bench schedule
+2020-11-14 19:37:55,834 INFO /usr/local/bin/bench watch
+2020-11-14 19:37:55,911 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 19:44:30,886 INFO /usr/local/bin/bench get-app https://github.com/alyf-de/vue_simple_pos.git
+2020-11-14 19:44:30,955 LOG Getting app vue_simple_pos
+2020-11-14 19:44:30,956 DEBUG cd ./apps && git clone https://github.com/alyf-de/vue_simple_pos.git  --depth 1 --origin upstream
+2020-11-14 19:45:09,203 LOG installing vue_simple_pos
+2020-11-14 19:45:09,204 DEBUG ./env/bin/pip install -q -U -e ./apps/vue_simple_pos 
+2020-11-14 19:45:22,780 DEBUG bench build --app vue_simple_pos
+2020-11-14 19:45:23,243 INFO /usr/local/bin/bench build --app vue_simple_pos
+2020-11-14 19:46:04,012 INFO /usr/local/bin/bench install-app vue_simple_pos
+2020-11-14 19:46:13,366 INFO /usr/local/bin/bench clear-cache
+2020-11-14 19:46:15,614 INFO /usr/local/bin/bench restart
+2020-11-14 19:46:29,246 INFO /usr/local/bin/bench start
+2020-11-14 19:46:31,189 INFO /usr/local/bin/bench watch
+2020-11-14 19:46:31,259 INFO /usr/local/bin/bench schedule
+2020-11-14 19:46:31,279 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 19:46:31,387 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 19:46:31,741 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 19:46:31,759 INFO /usr/local/bin/bench worker --queue short

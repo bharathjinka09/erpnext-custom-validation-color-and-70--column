@@ -7338,6 +7338,12 @@ h4.modal-title {
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075); 
 }
+
+
+.input-with-feedback::focus .form-control::focus{ 
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #29a1c3;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #29a1c3;
+}
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)

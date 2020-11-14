@@ -1,2 +1,7 @@
 frappe
 erpnext
+custom_css
+medleyhealth
+bluetheme
+frappe_charts
+vue_simple_pos

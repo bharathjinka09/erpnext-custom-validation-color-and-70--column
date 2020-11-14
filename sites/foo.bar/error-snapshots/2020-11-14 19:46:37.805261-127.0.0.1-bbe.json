@@ -127,7 +127,7 @@
  },
  "frames": [
   {
-   "call": "(request=<Request 'http://0.0.0.0:8000/api/method/frappe....79fb02034be9503db72daf54d6a39306f59061c9f' [GET]>)",
+   "call": "(request=<Request 'http://127.0.0.1:8000/api/method/frapp...07b7d06afe9b697264f89882ac7d14030fd522010' [GET]>)",
    "dump": {
     "frappe. api": "<module 'frappe.api' from '/home/bharath/frappe-bench/apps/frappe/frappe/api.py'>",
     "frappe.api. handle": "<function handle>",
@@ -226,6 +226,6 @@
   "newargs": "{}"
  },
  "pyver": "Python 3.7.9: /home/bharath/frappe-bench/env/bin/python (prefix: /home/bharath/frappe-bench/env)",
- "timestamp": "2020-11-03 18:42:49.538916",
+ "timestamp": "2020-11-14 19:46:37.805409",
  "traceback": "Traceback (most recent call last):\n  File \"/home/bharath/frappe-bench/apps/frappe/frappe/app.py\", line 64, in application\n    response = frappe.api.handle()\n  File \"/home/bharath/frappe-bench/apps/frappe/frappe/api.py\", line 59, in handle\n    return frappe.handler.handle()\n  File \"/home/bharath/frappe-bench/apps/frappe/frappe/handler.py\", line 24, in handle\n    data = execute_cmd(cmd)\n  File \"/home/bharath/frappe-bench/apps/frappe/frappe/handler.py\", line 64, in execute_cmd\n    return frappe.call(method, **frappe.form_dict)\n  File \"/home/bharath/frappe-bench/apps/frappe/frappe/__init__.py\", line 1064, in call\n    return fn(*args, **newargs)\nTypeError: get_user_info() missing 1 required positional argument: 'sid'\n"
 }
