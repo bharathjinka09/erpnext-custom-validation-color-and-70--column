@@ -85,3 +85,117 @@ Database backup: ./foo.bar/private/backups/20201113_180150-foo_bar-database.sql.
 Backup Summary at 2020-11-14 12:20:55.292361
 --------------------------------------------
 Database backup: ./foo.bar/private/backups/20201114_121620-foo_bar-database.sql.gz
+Backup Summary at 2020-11-15 12:01:00.483014
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201115_120053-foo_bar-database.sql.gz
+Backup Summary at 2020-11-15 12:01:51.206374
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201115_120100-pos-1-database.sql.gz
+Backup Summary at 2020-11-15 18:03:26.106971
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201115_180221-foo_bar-database.sql.gz
+File is recent
+File is recent
+Backup Summary at 2020-11-15 18:04:08.969441
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201115_180326-pos-1-database.sql.gz
+Backup Summary at 2020-11-16 12:02:02.271965
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201116_120150-foo_bar-database.sql.gz
+File is recent
+File is recent
+File is old
+File is old
+Backup Summary at 2020-11-16 12:03:21.971887
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201116_120202-pos-1-database.sql.gz
+Backup Summary at 2020-11-16 18:02:03.623655
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201116_180113-foo_bar-database.sql.gz
+File is recent
+File is recent
+File is recent
+File is recent
+Backup Summary at 2020-11-16 18:02:46.106357
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201116_180203-pos-1-database.sql.gz
+Backup Summary at 2020-11-17 12:02:14.698814
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201117_120125-foo_bar-database.sql.gz
+File is recent
+File is recent
+File is old
+File is old
+File is recent
+File is recent
+Backup Summary at 2020-11-17 12:03:11.850325
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201117_120215-pos-1-database.sql.gz
+Backup Summary at 2020-11-17 18:04:50.306494
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201117_180431-foo_bar-database.sql.gz
+File is old
+File is old
+File is recent
+File is recent
+File is old
+File is old
+Backup Summary at 2020-11-17 18:06:52.523129
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201117_180450-pos-1-database.sql.gz
+Backup Summary at 2020-11-18 12:01:39.530690
+--------------------------------------------
+Database backup: ./bench-manager.local/private/backups/20201118_120136-bench-manager_local-database.sql.gz
+File is recent
+File is recent
+File is recent
+File is recent
+Backup Summary at 2020-11-18 12:01:56.383482
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201118_120139-foo_bar-database.sql.gz
+File is recent
+File is recent
+File is recent
+File is recent
+Backup Summary at 2020-11-18 12:03:01.746042
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201118_120156-pos-1-database.sql.gz
+Backup Summary at 2020-11-18 18:03:21.920930
+--------------------------------------------
+Database backup: ./bench-manager.local/private/backups/20201118_180152-bench-manager_local-database.sql.gz
+File is recent
+File is old
+File is recent
+File is recent
+File is recent
+File is old
+Backup Summary at 2020-11-18 18:05:33.033848
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201118_180322-foo_bar-database.sql.gz
+File is old
+File is recent
+File is old
+File is recent
+File is recent
+File is recent
+Backup Summary at 2020-11-18 18:07:20.107503
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201118_180533-pos-1-database.sql.gz
+Backup Summary at 2020-11-19 18:01:37.269643
+--------------------------------------------
+Database backup: ./bench-manager.local/private/backups/20201119_180104-bench-manager_local-database.sql.gz
+File is recent
+File is recent
+File is recent
+Backup Summary at 2020-11-19 18:02:05.075552
+--------------------------------------------
+Database backup: ./foo.bar/private/backups/20201119_180137-foo_bar-database.sql.gz
+File is recent
+File is old
+File is old
+File is old
+File is recent
+File is old
+Backup Summary at 2020-11-19 18:03:11.942427
+--------------------------------------------
+Database backup: ./pos-1/private/backups/20201119_180205-pos-1-database.sql.gz

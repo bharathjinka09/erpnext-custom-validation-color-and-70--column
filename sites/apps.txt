@@ -5,3 +5,5 @@ medleyhealth
 bluetheme
 frappe_charts
 vue_simple_pos
+bench_manager
+retailer_core

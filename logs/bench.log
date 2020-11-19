@@ -633,3 +633,373 @@
 2020-11-14 19:46:31,387 INFO /usr/local/bin/bench serve --port 8000
 2020-11-14 19:46:31,741 INFO /usr/local/bin/bench worker --queue long
 2020-11-14 19:46:31,759 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 20:00:05,663 INFO /usr/local/bin/bench clear-cache
+2020-11-14 20:00:30,251 INFO /usr/local/bin/bench clear-website-cache
+2020-11-14 20:00:45,309 INFO /usr/local/bin/bench buils
+2020-11-14 20:00:45,328 WARNING /usr/local/bin/bench buils executed with exit code 2
+2020-11-14 20:00:47,833 INFO /usr/local/bin/bench build
+2020-11-14 20:05:53,275 INFO /usr/local/bin/bench start
+2020-11-14 20:05:55,014 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 20:05:55,118 INFO /usr/local/bin/bench watch
+2020-11-14 20:05:55,239 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 20:05:55,295 INFO /usr/local/bin/bench schedule
+2020-11-14 20:05:55,304 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 20:05:55,313 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 20:16:42,384 INFO /usr/local/bin/bench start
+2020-11-14 20:16:47,954 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 20:16:48,080 INFO /usr/local/bin/bench watch
+2020-11-14 20:16:48,200 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 20:16:48,214 INFO /usr/local/bin/bench schedule
+2020-11-14 20:16:48,309 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 20:16:48,341 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 20:36:06,501 INFO /usr/local/bin/bench --site foo.bar install-app vue_simple_pos
+2020-11-14 20:36:21,128 INFO /usr/local/bin/bench clear-cache
+2020-11-14 20:36:24,101 INFO /usr/local/bin/bench restart
+2020-11-14 20:36:29,075 INFO /usr/local/bin/bench start
+2020-11-14 20:36:30,375 INFO /usr/local/bin/bench worker --queue default
+2020-11-14 20:36:30,643 INFO /usr/local/bin/bench worker --queue long
+2020-11-14 20:36:30,644 INFO /usr/local/bin/bench schedule
+2020-11-14 20:36:30,668 INFO /usr/local/bin/bench worker --queue short
+2020-11-14 20:36:30,672 INFO /usr/local/bin/bench serve --port 8000
+2020-11-14 20:36:30,837 INFO /usr/local/bin/bench watch
+2020-11-15 09:35:59,371 INFO /usr/local/bin/bench build
+2020-11-15 09:39:52,783 INFO /usr/local/bin/bench start
+2020-11-15 09:39:55,265 INFO /usr/local/bin/bench schedule
+2020-11-15 09:39:55,288 INFO /usr/local/bin/bench serve --port 8000
+2020-11-15 09:39:55,297 INFO /usr/local/bin/bench watch
+2020-11-15 09:39:55,315 INFO /usr/local/bin/bench worker --queue long
+2020-11-15 09:39:55,326 INFO /usr/local/bin/bench worker --queue short
+2020-11-15 09:39:55,347 INFO /usr/local/bin/bench worker --queue default
+2020-11-15 09:42:15,246 INFO /usr/local/bin/bench --site foo.bar install-app vue_simple_pos
+2020-11-15 09:42:32,363 INFO /usr/local/bin/bench clear-cache
+2020-11-15 09:42:34,773 INFO /usr/local/bin/bench restart
+2020-11-15 09:42:43,553 INFO /usr/local/bin/bench clear-website-cache
+2020-11-15 09:42:49,308 INFO /usr/local/bin/bench start
+2020-11-15 09:42:51,100 INFO /usr/local/bin/bench serve --port 8000
+2020-11-15 09:42:51,359 INFO /usr/local/bin/bench worker --queue short
+2020-11-15 09:42:51,377 INFO /usr/local/bin/bench worker --queue long
+2020-11-15 09:42:51,471 INFO /usr/local/bin/bench schedule
+2020-11-15 09:42:51,501 INFO /usr/local/bin/bench worker --queue default
+2020-11-15 09:42:51,551 INFO /usr/local/bin/bench watch
+2020-11-15 10:26:02,431 INFO /usr/local/bin/bench --site foo.bar install-app vue_simple_pos
+2020-11-15 10:27:11,124 INFO /usr/local/bin/bench new-site pos-1
+2020-11-15 10:29:49,499 INFO /usr/local/bin/bench --site foo.bar backup
+2020-11-15 10:30:10,304 INFO /usr/local/bin/bench --site pos-1 install-app erpnext
+2020-11-15 10:44:00,346 INFO /usr/local/bin/bench start
+2020-11-15 10:44:02,201 INFO /usr/local/bin/bench watch
+2020-11-15 10:44:02,232 INFO /usr/local/bin/bench schedule
+2020-11-15 10:44:02,362 INFO /usr/local/bin/bench worker --queue long
+2020-11-15 10:44:02,590 INFO /usr/local/bin/bench worker --queue short
+2020-11-15 10:44:02,637 INFO /usr/local/bin/bench worker --queue default
+2020-11-15 10:44:02,640 INFO /usr/local/bin/bench serve --port 8000
+2020-11-15 10:47:43,536 INFO /usr/local/bin/bench start
+2020-11-15 10:47:46,537 INFO /usr/local/bin/bench worker --queue default
+2020-11-15 10:47:46,588 INFO /usr/local/bin/bench worker --queue short
+2020-11-15 10:47:46,732 INFO /usr/local/bin/bench schedule
+2020-11-15 10:47:46,786 INFO /usr/local/bin/bench watch
+2020-11-15 10:47:46,787 INFO /usr/local/bin/bench serve --port 8000
+2020-11-15 10:47:46,865 INFO /usr/local/bin/bench worker --queue long
+2020-11-15 10:54:47,433 INFO /usr/local/bin/bench get-app https://github.com/alyf-de/vue_simple_pos.git
+2020-11-15 10:54:50,389 LOG Getting app vue_simple_pos
+2020-11-15 10:54:50,390 DEBUG cd ./apps && git clone https://github.com/alyf-de/vue_simple_pos.git  --depth 1 --origin upstream
+2020-11-15 10:54:57,898 LOG installing vue_simple_pos
+2020-11-15 10:54:57,898 DEBUG ./env/bin/pip install -q -U -e ./apps/vue_simple_pos 
+2020-11-15 10:55:03,803 DEBUG bench build --app vue_simple_pos
+2020-11-15 10:55:04,334 INFO /usr/local/bin/bench build --app vue_simple_pos
+2020-11-15 10:55:51,042 INFO /usr/local/bin/bench --site pos-1 install-app vue_simple_pos
+2020-11-15 10:56:05,601 INFO /usr/local/bin/bench clear-cache
+2020-11-15 10:56:07,926 INFO /usr/local/bin/bench restart
+2020-11-15 10:56:14,360 INFO /usr/local/bin/bench start
+2020-11-15 10:56:16,592 INFO /usr/local/bin/bench schedule
+2020-11-15 10:56:16,736 INFO /usr/local/bin/bench worker --queue default
+2020-11-15 10:56:16,943 INFO /usr/local/bin/bench serve --port 8000
+2020-11-15 10:56:16,953 INFO /usr/local/bin/bench watch
+2020-11-15 10:56:17,100 INFO /usr/local/bin/bench worker --queue long
+2020-11-15 10:56:17,204 INFO /usr/local/bin/bench worker --queue short
+2020-11-15 11:54:50,674 INFO /usr/local/bin/bench get-app https://github.com/alyf-de/vue_simple_pos.git
+2020-11-15 11:54:50,681 LOG Getting app vue_simple_pos
+2020-11-15 11:54:50,682 DEBUG cd ./apps && git clone https://github.com/alyf-de/vue_simple_pos.git  --depth 1 --origin upstream
+2020-11-15 11:55:14,784 LOG installing vue_simple_pos
+2020-11-15 11:55:14,785 DEBUG ./env/bin/pip install -q -U -e ./apps/vue_simple_pos 
+2020-11-15 11:55:23,002 DEBUG bench build --app vue_simple_pos
+2020-11-15 11:55:23,465 INFO /usr/local/bin/bench build --app vue_simple_pos
+2020-11-15 11:55:55,010 INFO /usr/local/bin/bench --site pos-1 install-app vue_simple_pos
+2020-11-15 11:56:15,681 INFO /usr/local/bin/bench clear-cache
+2020-11-15 11:56:19,389 INFO /usr/local/bin/bench restart
+2020-11-15 11:57:13,643 INFO /usr/local/bin/bench start
+2020-11-15 11:57:16,193 INFO /usr/local/bin/bench watch
+2020-11-15 11:57:16,253 INFO /usr/local/bin/bench serve --port 8000
+2020-11-15 11:57:16,441 INFO /usr/local/bin/bench worker --queue short
+2020-11-15 11:57:16,446 INFO /usr/local/bin/bench schedule
+2020-11-15 11:57:16,465 INFO /usr/local/bin/bench worker --queue default
+2020-11-15 11:57:16,548 INFO /usr/local/bin/bench worker --queue long
+2020-11-15 12:00:15,563 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-15 18:00:42,553 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-16 08:40:32,891 INFO /usr/local/bin/bench start
+2020-11-16 08:40:37,744 INFO /usr/local/bin/bench watch
+2020-11-16 08:40:37,901 INFO /usr/local/bin/bench worker --queue short
+2020-11-16 08:40:37,942 INFO /usr/local/bin/bench worker --queue long
+2020-11-16 08:40:38,024 INFO /usr/local/bin/bench schedule
+2020-11-16 08:40:38,026 INFO /usr/local/bin/bench worker --queue default
+2020-11-16 08:40:38,058 INFO /usr/local/bin/bench serve --port 8000
+2020-11-16 08:42:32,569 INFO /usr/local/bin/bench start
+2020-11-16 08:42:35,861 INFO /usr/local/bin/bench worker --queue default
+2020-11-16 08:42:36,070 INFO /usr/local/bin/bench schedule
+2020-11-16 08:42:36,089 INFO /usr/local/bin/bench worker --queue short
+2020-11-16 08:42:36,110 INFO /usr/local/bin/bench watch
+2020-11-16 08:42:36,115 INFO /usr/local/bin/bench worker --queue long
+2020-11-16 08:42:36,168 INFO /usr/local/bin/bench serve --port 8000
+2020-11-16 08:52:18,181 INFO /usr/local/bin/bench start
+2020-11-16 08:52:21,229 INFO /usr/local/bin/bench worker --queue short
+2020-11-16 08:52:21,253 INFO /usr/local/bin/bench serve --port 8000
+2020-11-16 08:52:21,273 INFO /usr/local/bin/bench worker --queue default
+2020-11-16 08:52:21,273 INFO /usr/local/bin/bench worker --queue long
+2020-11-16 08:52:21,328 INFO /usr/local/bin/bench schedule
+2020-11-16 08:52:21,400 INFO /usr/local/bin/bench watch
+2020-11-16 09:12:12,180 INFO /usr/local/bin/bench start
+2020-11-16 09:12:14,174 INFO /usr/local/bin/bench worker --queue short
+2020-11-16 09:12:14,188 INFO /usr/local/bin/bench serve --port 8000
+2020-11-16 09:12:14,219 INFO /usr/local/bin/bench worker --queue default
+2020-11-16 09:12:14,258 INFO /usr/local/bin/bench worker --queue long
+2020-11-16 09:12:14,284 INFO /usr/local/bin/bench watch
+2020-11-16 09:12:14,320 INFO /usr/local/bin/bench schedule
+2020-11-16 12:00:18,715 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-16 18:00:20,134 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-17 12:00:19,063 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-17 13:40:23,672 INFO /usr/local/bin/bench start
+2020-11-17 13:40:25,326 INFO /usr/local/bin/bench schedule
+2020-11-17 13:40:25,412 INFO /usr/local/bin/bench watch
+2020-11-17 13:40:25,436 INFO /usr/local/bin/bench worker --queue short
+2020-11-17 13:40:25,448 INFO /usr/local/bin/bench serve --port 8000
+2020-11-17 13:40:25,529 INFO /usr/local/bin/bench worker --queue default
+2020-11-17 13:40:25,579 INFO /usr/local/bin/bench worker --queue long
+2020-11-17 14:39:52,429 INFO /usr/local/bin/bench start
+2020-11-17 14:39:54,208 INFO /usr/local/bin/bench worker --queue default
+2020-11-17 14:39:54,283 INFO /usr/local/bin/bench schedule
+2020-11-17 14:39:54,381 INFO /usr/local/bin/bench worker --queue short
+2020-11-17 14:39:54,409 INFO /usr/local/bin/bench worker --queue long
+2020-11-17 14:39:54,434 INFO /usr/local/bin/bench serve --port 8000
+2020-11-17 14:39:54,458 INFO /usr/local/bin/bench watch
+2020-11-17 18:00:44,027 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-17 18:14:05,396 INFO /usr/local/bin/bench start
+2020-11-17 18:14:07,390 INFO /usr/local/bin/bench worker --queue default
+2020-11-17 18:14:07,402 INFO /usr/local/bin/bench worker --queue long
+2020-11-17 18:14:07,433 INFO /usr/local/bin/bench worker --queue short
+2020-11-17 18:14:07,500 INFO /usr/local/bin/bench schedule
+2020-11-17 18:14:07,521 INFO /usr/local/bin/bench serve --port 8000
+2020-11-17 18:14:07,540 INFO /usr/local/bin/bench watch
+2020-11-17 18:14:27,936 INFO /usr/local/bin/bench start
+2020-11-17 18:14:29,918 INFO /usr/local/bin/bench worker --queue default
+2020-11-17 18:14:29,941 INFO /usr/local/bin/bench schedule
+2020-11-17 18:14:29,979 INFO /usr/local/bin/bench worker --queue short
+2020-11-17 18:14:30,060 INFO /usr/local/bin/bench serve --port 8000
+2020-11-17 18:14:30,262 INFO /usr/local/bin/bench watch
+2020-11-17 18:14:30,315 INFO /usr/local/bin/bench worker --queue long
+2020-11-17 18:16:54,630 INFO /usr/local/bin/bench start
+2020-11-17 18:16:58,062 INFO /usr/local/bin/bench worker --queue default
+2020-11-17 18:16:58,089 INFO /usr/local/bin/bench watch
+2020-11-17 18:16:58,123 INFO /usr/local/bin/bench worker --queue long
+2020-11-17 18:16:58,195 INFO /usr/local/bin/bench worker --queue short
+2020-11-17 18:16:58,233 INFO /usr/local/bin/bench serve --port 8000
+2020-11-17 18:16:58,264 INFO /usr/local/bin/bench schedule
+2020-11-17 18:17:19,707 INFO /usr/local/bin/bench start
+2020-11-17 18:17:21,726 INFO /usr/local/bin/bench worker --queue short
+2020-11-17 18:17:21,839 INFO /usr/local/bin/bench worker --queue default
+2020-11-17 18:17:21,970 INFO /usr/local/bin/bench worker --queue long
+2020-11-17 18:17:22,078 INFO /usr/local/bin/bench serve --port 8000
+2020-11-17 18:17:22,107 INFO /usr/local/bin/bench watch
+2020-11-17 18:17:22,174 INFO /usr/local/bin/bench schedule
+2020-11-17 18:20:55,337 INFO /usr/local/bin/bench start
+2020-11-17 18:20:59,948 INFO /usr/local/bin/bench serve --port 8000
+2020-11-17 18:21:00,089 INFO /usr/local/bin/bench schedule
+2020-11-17 18:21:00,113 INFO /usr/local/bin/bench worker --queue short
+2020-11-17 18:21:00,142 INFO /usr/local/bin/bench worker --queue default
+2020-11-17 18:21:00,201 INFO /usr/local/bin/bench worker --queue long
+2020-11-17 18:21:00,225 INFO /usr/local/bin/bench watch
+2020-11-17 18:21:27,162 INFO /usr/local/bin/bench start
+2020-11-17 18:21:29,398 INFO /usr/local/bin/bench worker --queue long
+2020-11-17 18:21:29,494 INFO /usr/local/bin/bench serve --port 8000
+2020-11-17 18:21:29,523 INFO /usr/local/bin/bench worker --queue short
+2020-11-17 18:21:29,556 INFO /usr/local/bin/bench schedule
+2020-11-17 18:21:29,633 INFO /usr/local/bin/bench worker --queue default
+2020-11-17 18:21:29,735 INFO /usr/local/bin/bench watch
+2020-11-17 19:03:33,878 INFO /usr/local/bin/bench --help
+2020-11-17 19:04:21,733 INFO /usr/local/bin/bench --help
+2020-11-17 19:07:14,087 INFO /usr/local/bin/bench console
+2020-11-17 19:13:15,906 INFO /usr/local/bin/bench console
+2020-11-17 19:13:28,995 INFO /usr/local/bin/bench execute
+2020-11-17 19:13:35,241 INFO /usr/local/bin/bench execute --help
+2020-11-17 19:14:19,248 INFO /usr/local/bin/bench execute custom_css.api
+2020-11-17 19:17:08,328 INFO /usr/local/bin/bench execute erpnext.erpnext.utilities.product
+2020-11-17 19:17:31,381 INFO /usr/local/bin/bench execute apps.erpnext.erpnext.utilities.product
+2020-11-17 19:17:38,034 INFO /usr/local/bin/bench execute erpnext.erpnext.utilities.product
+2020-11-17 19:17:44,858 INFO /usr/local/bin/bench execute erpnext.utilities.product
+2020-11-17 19:18:03,945 INFO /usr/local/bin/bench execute erpnext.erpnext.utilities.product.get_qty_in_stock
+2020-11-17 19:20:40,272 INFO /usr/local/bin/bench restart
+2020-11-17 19:21:25,084 INFO /usr/local/bin/bench execute erpnext.erpnext.hello.hello_world
+2020-11-17 19:21:35,830 INFO /usr/local/bin/bench execute erpnext.hello.hello_world
+2020-11-17 19:21:39,422 INFO /usr/local/bin/bench execute erpnext.hello.hello_world
+2020-11-17 19:22:04,197 INFO /usr/local/bin/bench execute erpnext.utilities.product.get_qty_in_stock
+2020-11-17 19:22:17,602 INFO /usr/local/bin/bench execute
+2020-11-17 19:22:23,373 INFO /usr/local/bin/bench execute --help
+2020-11-17 19:22:41,833 INFO /usr/local/bin/bench execute erpnext.utilities.product.get_qty_in_stock --args 123 4521
+2020-11-17 19:22:49,928 INFO /usr/local/bin/bench execute erpnext.utilities.product.get_qty_in_stock --args 123
+2020-11-17 19:25:24,079 INFO /usr/local/bin/bench execute erpnext.education.api.check_attendance_records_exist
+2020-11-17 19:26:37,480 INFO /usr/local/bin/bench execute erpnext.accounts.utils.get_companies
+2020-11-17 19:30:00,389 INFO /usr/local/bin/bench execute erpnext.accounts.utils.get_companies
+2020-11-17 19:31:25,616 INFO /usr/local/bin/bench execute erpnext.accounts.utils.add_ac
+2020-11-17 19:31:47,128 INFO /usr/local/bin/bench execute erpnext.accounts.utils.get_balance_on
+2020-11-17 19:35:29,588 INFO /usr/local/bin/bench execute erpnext.accounts.utils.get_companies
+2020-11-17 19:35:40,300 INFO /usr/local/bin/bench console
+2020-11-17 19:51:19,055 INFO /usr/local/bin/bench setup manager
+2020-11-17 19:51:19,057 DEBUG bench new-site --force bench-manager.local
+2020-11-17 19:51:19,518 INFO /usr/local/bin/bench new-site --force bench-manager.local
+2020-11-17 19:54:03,309 DEBUG bench get-app bench_manager
+2020-11-17 19:54:07,013 INFO /usr/local/bin/bench get-app bench_manager
+2020-11-17 19:54:07,652 LOG Getting app bench_manager
+2020-11-17 19:54:07,653 DEBUG cd ./apps && git clone https://github.com/frappe/bench_manager  --depth 1 --origin upstream
+2020-11-17 19:54:11,314 LOG installing bench_manager
+2020-11-17 19:54:11,314 DEBUG ./env/bin/pip install -q -U -e ./apps/bench_manager 
+2020-11-17 19:54:16,866 DEBUG bench build --app bench_manager
+2020-11-17 19:54:17,382 INFO /usr/local/bin/bench build --app bench_manager
+2020-11-17 19:54:28,648 DEBUG bench --site bench-manager.local install-app bench_manager
+2020-11-17 19:54:29,372 INFO /usr/local/bin/bench --site bench-manager.local install-app bench_manager
+2020-11-17 19:57:29,585 INFO /usr/local/bin/bench console
+2020-11-18 12:00:25,839 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-18 17:57:04,614 INFO /usr/local/bin/bench console
+2020-11-18 17:57:11,993 INFO /usr/local/bin/bench console
+2020-11-18 18:00:14,373 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-18 18:00:32,036 INFO /usr/local/bin/bench console
+2020-11-18 18:03:08,316 INFO /usr/local/bin/bench execute erpnext.accounts.utils.get_companies
+2020-11-18 18:06:38,111 INFO /usr/local/bin/bench execute erpnext.hello.get_users_list
+2020-11-18 18:08:18,922 INFO /usr/local/bin/bench execute erpnext.hello.get_users_list
+2020-11-18 18:28:40,550 INFO /usr/local/bin/bench start
+2020-11-18 18:28:42,199 INFO /usr/local/bin/bench watch
+2020-11-18 18:28:42,259 INFO /usr/local/bin/bench schedule
+2020-11-18 18:28:42,304 INFO /usr/local/bin/bench worker --queue long
+2020-11-18 18:28:42,327 INFO /usr/local/bin/bench worker --queue default
+2020-11-18 18:28:42,341 INFO /usr/local/bin/bench worker --queue short
+2020-11-18 18:28:42,405 INFO /usr/local/bin/bench serve --port 8000
+2020-11-18 19:20:56,683 INFO /usr/local/bin/bench start
+2020-11-18 19:20:58,504 INFO /usr/local/bin/bench worker --queue long
+2020-11-18 19:20:58,564 INFO /usr/local/bin/bench watch
+2020-11-18 19:20:58,586 INFO /usr/local/bin/bench worker --queue default
+2020-11-18 19:20:58,606 INFO /usr/local/bin/bench serve --port 8000
+2020-11-18 19:20:58,624 INFO /usr/local/bin/bench worker --queue short
+2020-11-18 19:20:58,653 INFO /usr/local/bin/bench schedule
+2020-11-19 10:24:59,635 INFO /usr/local/bin/bench start
+2020-11-19 10:25:02,051 INFO /usr/local/bin/bench watch
+2020-11-19 10:25:02,171 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 10:25:02,239 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 10:25:02,269 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 10:25:02,320 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 10:25:02,347 INFO /usr/local/bin/bench schedule
+2020-11-19 10:25:20,296 INFO /usr/local/bin/bench start
+2020-11-19 10:25:22,346 INFO /usr/local/bin/bench watch
+2020-11-19 10:25:22,421 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 10:25:22,570 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 10:25:22,688 INFO /usr/local/bin/bench schedule
+2020-11-19 10:25:22,701 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 10:25:22,718 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 12:00:40,372 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-19 12:56:25,721 INFO /usr/local/bin/bench start
+2020-11-19 12:56:28,969 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 12:56:29,134 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 12:56:29,151 INFO /usr/local/bin/bench watch
+2020-11-19 12:56:29,225 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 12:56:29,236 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 12:56:29,266 INFO /usr/local/bin/bench schedule
+2020-11-19 13:11:56,206 INFO /usr/local/bin/bench start
+2020-11-19 13:12:01,607 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 13:12:01,632 INFO /usr/local/bin/bench schedule
+2020-11-19 13:12:01,816 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 13:12:01,835 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 13:12:01,900 INFO /usr/local/bin/bench watch
+2020-11-19 13:12:01,929 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 13:12:13,702 INFO /usr/local/bin/bench start
+2020-11-19 13:12:15,593 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 13:12:15,904 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 13:12:16,183 INFO /usr/local/bin/bench schedule
+2020-11-19 13:12:16,185 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 13:12:16,223 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 13:12:16,274 INFO /usr/local/bin/bench watch
+2020-11-19 14:31:15,130 INFO /usr/local/bin/bench start
+2020-11-19 14:31:18,363 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 14:31:19,051 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 14:31:19,195 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 14:31:19,219 INFO /usr/local/bin/bench schedule
+2020-11-19 14:31:19,300 INFO /usr/local/bin/bench watch
+2020-11-19 14:31:19,310 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 14:31:29,445 INFO /usr/local/bin/bench start
+2020-11-19 14:31:32,580 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 14:31:32,629 INFO /usr/local/bin/bench watch
+2020-11-19 14:31:32,762 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 14:31:32,771 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 14:31:32,907 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 14:31:32,972 INFO /usr/local/bin/bench schedule
+2020-11-19 17:23:40,274 INFO /usr/local/bin/bench get-app
+2020-11-19 17:23:40,428 WARNING /usr/local/bin/bench get-app executed with exit code 2
+2020-11-19 17:23:59,578 INFO /usr/local/bin/bench get-app https://gitlab.com/storefront_nigeriav12/retailer_core_nigeriav12.git
+2020-11-19 17:23:59,584 LOG Getting app retailer_core_nigeriav12
+2020-11-19 17:23:59,585 DEBUG cd ./apps && git clone https://gitlab.com/storefront_nigeriav12/retailer_core_nigeriav12.git  --depth 1 --origin upstream
+2020-11-19 17:24:15,406 LOG installing retailer_core
+2020-11-19 17:24:15,406 DEBUG ./env/bin/pip install -q -U -e ./apps/retailer_core 
+2020-11-19 17:24:24,026 DEBUG bench build --app retailer_core
+2020-11-19 17:24:24,887 INFO /usr/local/bin/bench build --app retailer_core
+2020-11-19 17:26:15,096 INFO /usr/local/bin/bench build
+2020-11-19 17:29:23,038 INFO /usr/local/bin/bench migrate
+2020-11-19 17:30:17,036 INFO /usr/local/bin/bench start
+2020-11-19 17:30:19,211 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 17:30:19,606 INFO /usr/local/bin/bench watch
+2020-11-19 17:30:19,641 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 17:30:19,712 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 17:30:19,919 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 17:30:19,964 INFO /usr/local/bin/bench schedule
+2020-11-19 17:31:07,049 INFO /usr/local/bin/bench migrate
+2020-11-19 18:00:16,309 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-19 18:43:40,679 INFO /usr/local/bin/bench update
+2020-11-19 18:44:19,533 INFO /usr/local/bin/bench --site foo.bar install-app retailer_core
+2020-11-19 18:45:24,053 INFO /usr/local/bin/bench migrate
+2020-11-19 18:48:06,130 INFO /usr/local/bin/bench --site foo.bar install-app retailer_core
+2020-11-19 18:49:14,336 INFO /usr/local/bin/bench migrate
+2020-11-19 18:55:39,706 INFO /usr/local/bin/bench build
+2020-11-19 19:19:59,700 INFO /usr/local/bin/bench start
+2020-11-19 19:20:04,366 INFO /usr/local/bin/bench schedule
+2020-11-19 19:20:04,494 INFO /usr/local/bin/bench worker --queue default
+2020-11-19 19:20:04,498 INFO /usr/local/bin/bench worker --queue short
+2020-11-19 19:20:04,506 INFO /usr/local/bin/bench watch
+2020-11-19 19:20:04,535 INFO /usr/local/bin/bench serve --port 8000
+2020-11-19 19:20:04,543 INFO /usr/local/bin/bench worker --queue long
+2020-11-19 19:29:45,215 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program
+2020-11-19 19:30:02,861 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details
+2020-11-19 19:30:49,053 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath Medleymed
+2020-11-19 19:30:56,830 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath
+2020-11-19 19:31:15,526 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath loyalty_program=Medleymed
+2020-11-19 19:31:24,834 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath Medleymed
+2020-11-19 19:31:37,632 INFO /usr/local/bin/bench execute --help
+2020-11-19 19:31:57,580 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath --args Medleymed
+2020-11-19 19:32:05,501 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath
+2020-11-19 19:32:16,964 INFO /usr/local/bin/bench execute --help
+2020-11-19 19:32:30,380 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --kwargs customer=bharath
+2020-11-19 19:32:36,810 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --kwargs bharath
+2020-11-19 19:32:45,674 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --kwargs customer:bharath
+2020-11-19 19:33:05,633 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --kwargs --help
+2020-11-19 19:33:21,841 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath
+2020-11-19 19:33:37,605 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath,Medleymed
+2020-11-19 19:33:45,333 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath
+2020-11-19 19:37:03,012 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath
+2020-11-19 19:37:17,549 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args bharath Medleymed
+2020-11-19 19:38:09,554 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_details --args ['bharath', 'Medleymed']
+2020-11-19 19:42:04,719 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_program_details_with_points --args ['bharath']
+2020-11-19 19:42:35,088 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_program_details_with_points --args ['bharath','Medleymed']
+2020-11-19 19:47:47,090 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_program_details --args ['bharath', 'Medleymed']
+2020-11-19 19:48:49,153 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_redeemption_factor --args ['bharath', 'Medleymed']
+2020-11-19 19:48:58,739 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_redeemption_factor --args ['bharath', 'Medleymed']
+2020-11-19 19:49:07,766 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_redeemption_factor --args ['bharath']
+2020-11-19 19:50:22,946 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_redeemption_factor --args ['bharat']
+2020-11-19 19:50:30,207 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_redeemption_factor
+2020-11-19 19:50:41,692 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_redeemption_factor --args ['bh']
+2020-11-19 19:56:12,869 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_redeemption_factor --args ['bharath', 'Medleymed']
+2020-11-19 19:56:24,083 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_program_details --args ['bharath', 'Medleymed']
+2020-11-19 19:58:18,599 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_loyalty_program_details --args ['bharath', 'Medleymed']
+2020-11-19 19:58:29,312 INFO /usr/local/bin/bench execute erpnext.accounts.doctype.loyalty_program.loyalty_program.get_redeemption_factor --args ['bharath', 'Medleymed']
